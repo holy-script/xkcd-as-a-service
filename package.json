@@ -1,0 +1,17 @@
+{
+    "name": "xkcd-server",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "author": "Palash Johri",
+    "license": "MIT",
+    "dependencies": {
+        "algoliasearch": "^4.8.5",
+        "axios": "^0.21.1",
+        "express": "^4.17.1",
+        "twilio": "^3.55.1"
+    }
+}
